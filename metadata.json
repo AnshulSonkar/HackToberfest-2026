@@ -1,0 +1,6 @@
+{
+  "name": "BriefMail AI - Professional Email Writer",
+  "description": "Transform quick notes and thoughts into polished, tone-crafted professional emails in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
